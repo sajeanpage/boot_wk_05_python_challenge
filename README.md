@@ -2,7 +2,7 @@
 
 ### PyBank
 
-In this Challenge, I was tasked with creating a Python script to analyze the financial records. 
+In this Challenge, I was tasked with creating a Python script to analyze financial records. 
 I was given a financial dataset called [budget_data.csv](/PyBank/Resources/budget_data.csv) composed of two columns: "Date" and "Profit/Losses".
 
 I was asked to analyze the records to calculate:
