@@ -19,7 +19,7 @@ The result: [Analysis.txt](/PyBank/Analysis/Analysis.txt)
 ### PyPoll
 
 In this Challenge, I was tasked with helping a small, rural town modernize its vote-counting process.
-I was given a set of poll data called election_data.csv composed of three columns: "Voter ID", "County", and "Candidate". 
+I was given a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv) composed of three columns: "Voter ID", "County", and "Candidate". 
 
 I was asked to analyze the votes to calculate:
   - The total number of votes cast
