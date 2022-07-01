@@ -3,7 +3,7 @@
 ### PyBank
 
 In this Challenge, I was tasked with creating a Python script to analyze the financial records. 
-I was given a financial dataset called [budget_data.csv](budget_data.csv) composed of two columns: "Date" and "Profit/Losses".
+I was given a financial dataset called [budget_data.csv](/PyBank/Resources/budget_data.csv) composed of two columns: "Date" and "Profit/Losses".
 
 I was asked to analyze the records to calculate:
   - The total number of months included in the dataset
