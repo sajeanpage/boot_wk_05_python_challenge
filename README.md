@@ -12,6 +12,6 @@ I was asked to analyze the records to calculate:
   - The greatest increase in profits (date and amount) over the entire period
   - The greatest decrease in profits (date and amount) over the entire period
     
-The result:
+The result: [Analysis.txt](/PyBank/Analysis/Analysis.txt)
 
 ![pybank code](/PyBank/Resources/pybank.gif)
