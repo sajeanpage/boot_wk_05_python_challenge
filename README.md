@@ -30,7 +30,7 @@ I was asked to analyze the votes to calculate:
     
 The result: [Analysis.txt](/PyPoll/Analysis/Analysis.txt)
 
-![pypoll code](/PyPoll/Resources/pybank.gif)
+![pypoll code](/PyPoll/Resources/pypoll.gif)
 
 
 
